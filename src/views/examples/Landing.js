@@ -81,9 +81,11 @@ class Landing extends React.Component {
                   <Row>
                     <Col lg="6">
                       <h1 className="display-3 text-white">
-                        A beautiful Design System{" "}
+                        A beautiful System wjijwd{" "}
+                        
                         <span>completed with examples</span>
-                      </h1>
+                      </h1><p>HELLOOO</p>
+                      <p>HELLOOO Again</p>
                       <p className="lead text-white">
                         The design system comes with four pre-built pages to
                         help you get started faster. You can change the text and
@@ -109,7 +111,7 @@ class Landing extends React.Component {
                             <i className="ni ni-cloud-download-95" />
                           </span>
                           <span className="btn-inner--text">
-                            Download React
+                            Download 
                           </span>
                         </Button>
                       </div>
